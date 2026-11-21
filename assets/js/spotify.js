@@ -1,5 +1,5 @@
-const clientId = "TU_CLIENT_ID";
-const redirectUri = "https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/";
+const clientId = "c2db24da6ae940cda3baee1bc299b46a";
+const redirectUri = "https://romanj-web.github.io/Bpmusic/";
 const scope = "streaming user-read-email user-read-private";
 
 function randomString(length) {
